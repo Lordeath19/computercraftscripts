@@ -1,0 +1,34 @@
+{
+  "product": "techopolis:basic_technium_ingot",
+  "stock": 64,
+  "destination": "storagenetwork:exchange_3",
+  "processing_input": "minecraft:chest_1",
+  "processing_output": "extendedcrafting:advanced_auto_table_2",
+  "batch_size": 1,
+  "ingredients": [
+    {
+      "name": "minecraft:clay",
+      "quantity": 4
+    },
+    {
+      "name": "immersiveengineering:treated_wood_horizontal",
+      "quantity": 4
+    },
+    {
+      "name": "minecraft:lapis_lazuli",
+      "quantity": 1
+    },
+    {
+      "name": "minecraft:smooth_stone",
+      "quantity": 4
+    },
+    {
+      "name": "immersiveengineering:coal_coke",
+      "quantity": 4
+    },
+    {
+      "name": "alltheores:bronze_ingot",
+      "quantity": 8
+    }
+  ]
+}

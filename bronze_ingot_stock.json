@@ -1,0 +1,18 @@
+{
+  "product": "alltheores:bronze_ingot",
+  "stock": 64,
+  "destination": "storagenetwork:exchange_2",
+  "processing_input": "jumbofurnace:jumbo_furnace_exterior_9",
+  "processing_output": "jumbofurnace:jumbo_furnace_exterior_8",
+  "batch_size": 4,
+  "ingredients": [
+    {
+      "name": "minecraft:copper_ingot",
+      "quantity": 3
+    },
+    {
+      "name": "alltheores:tin_ingot",
+      "quantity": 1
+    }
+  ]
+}

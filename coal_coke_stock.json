@@ -1,0 +1,13 @@
+{
+  "product": "immersiveengineering:coal_coke",
+  "stock": 128,
+  "destination": "storagenetwork:exchange_3",
+  "processing_input": "immersiveengineering:cokeoven_dummy_0",
+  "batch_size": 1,
+  "ingredients": [
+    {
+      "name": "minecraft:coal",
+      "quantity": 1
+    }
+  ]
+}

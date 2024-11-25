@@ -1,0 +1,15 @@
+{
+  "product": "minecraft:glass",
+  "stock": 512,
+  "destination": "storagenetwork:exchange_2",
+  "processing_input": "jumbofurnace:jumbo_furnace_exterior_9",
+  "processing_output": "jumbofurnace:jumbo_furnace_exterior_8",
+  "batch_size": 1,
+  "max_batch_size": 512,
+  "ingredients": [
+    {
+      "name": "minecraft:sand",
+      "quantity": 1
+    }
+  ]
+}

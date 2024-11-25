@@ -1,0 +1,14 @@
+{
+  "product": "minecraft:smooth_stone",
+  "stock": 64,
+  "destination": "storagenetwork:exchange_2",
+  "processing_input": "jumbofurnace:jumbo_furnace_exterior_9",
+  "processing_output": "jumbofurnace:jumbo_furnace_exterior_8",
+  "batch_size": 1,
+  "ingredients": [
+    {
+      "name": "minecraft:stone",
+      "quantity": 1
+    }
+  ]
+}
